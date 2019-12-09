@@ -1,2 +1,2 @@
-# knum-info
-Materiay informacyjne KNUM.
+# KNUM Info
+Materiały informacyjne KNUM.
