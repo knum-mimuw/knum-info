@@ -1,4 +1,4 @@
-# Conferences and hackathons in ML (WIP)
+# Conferences, hackathons and other events in ML (WIP)
 List of events connected with ML either worth following or attending from a perspective of a Polish student. As of December 2019.
 
 ## Conferences
@@ -15,7 +15,7 @@ List of events connected with ML either worth following or attending from a pers
 
 ## Hackathons and other events
 
-| Name | Description | When | Where | Link |
-|------|-------------|------|-------|------|
-|      |             |      |       |      |
-|      |             |      |       |      |
+| Name              | Description                                                                                                                                                           | When   | Where | Link                                                                                     |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|------------------------------------------------------------------------------------------|
+| SDU Summer School | 2-week summer school offering courses in DL and RL for robotics. SDU has an agreement with UW, so the tuition fee can be waivered. For questions contact @lamyiowce.  | August |       | https://www.sdu.dk/en/uddannelse/sdu_summer_school/engineering_and_science_summer_school |
+|                   |                                                                                                                                                                       |        |       |                                                                                          |
