@@ -1,14 +1,14 @@
-<h1 align="center"> Welcome to KNUM  Source Exchange 👋</h1>
+<h1 align="center"> Witaj na Platformie Wymiany Źródeł KNUM UW 👋</h1>
 
 
 ![](https://github.com/knum-mimuw/knum-info/blob/eval/data/knum-linkedin-color-dark.png?raw=true)
 
 
-**Table of contents**
+**Spis Treści**
 
 - [Intro](#intro)
     + [Making the World More Efficient Using AI & Machine Learning](#making-the-world-more-efficient-using-ai---machine-learning)
-- [Classic Machine Learning](#classic-machine-learning)
+- [Klasyczny Machine Learning](#klasyczny-machine-learning)
     + [Learning To See](#learning-to-see)
     + [Kaggle - Intro to ML](#kaggle---intro-to-ml)
     + [Fastai machine learning course](#fastai-machine-learning-course)
@@ -17,18 +17,18 @@
     + [3blue1brown - Neural Networks](#3blue1brown---neural-networks)
     + [Practical Deep Learning for Coders, v3, Part 1 (Jeremy Howard)](#practical-deep-learning-for-coders--v3--part-1--jeremy-howard-)
     + [MIT Introduction to Deep Learning 6.S191](#mit-introduction-to-deep-learning-6s191)
-- [Articles](#articles)
+- [Artykuły](#artykuły)
     + [Cheatsheet Recurrent Neural Networks](#cheatsheet-recurrent-neural-networks)
     + [Beginners guide on recurrent neural-networks with pytorch](#beginners-guide-on-recurrent-neural-networks-with-pytorch)
     + [D2L.AI Gated recurrent unit](#d2lai-gated-recurrent-unit)
-- [Contribute](#contribute)
+- [Wsparcie](#wsparcie)
 
 # Intro
 Kącik źródłowy jest miejscem gdzie gdzie znajdują się źródła do nauki ML wraz z ich ewaluacjami przeprowadzonymi przez członków koła.  Jest to w gruncie rzeczy lista źródeł do nauki dla osób, które chcą się nauczyć ale szukają rekomendacji skąd czerpać wiedzę. Chętni członkowie, którzy są w takiej sytuacji mogą jednocześnie przerabiać te źródła i je ewaluować, dzięki czemu mamy rzetelne informacje jak oceniają ten kurs osoby, które **jeszcze tej wiedzy przed nim nie miały**. Prezentowane niżej opinie są zanonimizowaną, skompresowaną i uśrednioną wartością ze wszystkich udzielonych ewaluacji. Jeśli chcesz zacząć swoją przygodę z ML'em, warto zerknąć na poniższe pozycję i zapoznać się z ich ewaluacjami. Jeśli chcesz coś przerobić to będzie nam, całej społeczności, bardzo miło jeśli podzielisz się z nami swoją ewaluacją. Wypełnienie ankiety ewaluacyjnej zajmuje dosłownie kilka minut! ;)
 ### Making the World More Efficient Using AI & Machine Learning 
 Dla osób wchodzących w dziedzinę polecamy prezentację Krzysztofa Kowalczyka. Przedstawia ona w krótki sposób dziedzinę i możliwe do podjęcia w niej ścieżki.
 TODO: tutaj link do prezki
-# Classic Machine Learning
+# Klasyczny Machine Learning
 #### Learning To See
 **Link**
 https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV
@@ -170,13 +170,13 @@ http://introtodeeplearning.com
 **Ogólna opinia**
 
 Bardzo bardzo wartościowy kurs. Jeżeli ktoś chce wejść w zasadzie z zerowego poziomu na poziom, w którym rozumie o co chodzi w sieciach neuronowych, to jest to bardzo solidne źródło nauki. Wykłady prowadzone w niesłychanie profesjonalny sposób. Tłumacząc jakieś zagadnienie używają konkretnych przykładów, tłumaczą teorię, a następnie pokazują kod w Tensorflow, który realizuje koncepcję, przez co od razu wiadomo jak takie sieci wyglądałyby. Wszystkie zagadnienia poruszane są tłumaczone w taki sposób, żeby było wszystko jasne, a dodatkowo oprócz wykładów są udostępnione Google Colaby, na "ćwiczenia" po wykładach, gdzie można było zastosować praktycznie wiedzę teoretyczną zdobytą na wykładach. Warto dodać, że wykłady realizują również osoby z firm takich jak NVIDIA, Google itp.
-# Articles
+# Artykuły
 #### Cheatsheet Recurrent Neural Networks
 #### Beginners guide on recurrent neural-networks with pytorch
 #### D2L.AI Gated recurrent unit
 
-# Contribute
-Powyższe opinie są uśrednionym wynikiem ewaluacji dokonanych przez członków. Nie moglibyśmy posiadać takiego źródła bez zaangażowania zainteresowanych dzieleniem się swoimi ocenami ze społecznością. Jeśli przerabiasz jakieś źródło i chciałbyś się podzielić swoją ewaluację, prosimy o wypełnienie **krótkiej** ankiety ewaluacyjnej:
+# Wsparcie
+Powyższe opinie są uśrednionym wynikiem ewaluacji dokonanych przez członków. Nie moglibyśmy posiadać takiego źródła bez zaangażowania zainteresowanych dzieleniem się swoimi ocenami ze społecznością. Jeśli przerabiasz jakieś źródło i chciałbyś się podzielić swoją ewaluację, prosimy o wypełnienie **krótkiej** ankiety ewaluacyjnej: <br>
+[Ankieta](https://docs.google.com/forms/d/e/1FAIpQLScbSeUilPpZmbOm03n7OI6i95QWXFkrlAMnFtMRcEnOAy_XRA/viewform)
 
-https://docs.google.com/forms/d/e/1FAIpQLScbSeUilPpZmbOm03n7OI6i95QWXFkrlAMnFtMRcEnOAy_XRA/viewform
 
