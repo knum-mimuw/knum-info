@@ -24,10 +24,10 @@
 - [Wsparcie](#wsparcie)
 
 # Intro
-Kącik źródłowy jest miejscem gdzie gdzie znajdują się źródła do nauki ML wraz z ich ewaluacjami przeprowadzonymi przez członków koła.  Jest to w gruncie rzeczy lista źródeł do nauki dla osób, które chcą się nauczyć ale szukają rekomendacji skąd czerpać wiedzę. Chętni członkowie, którzy są w takiej sytuacji mogą jednocześnie przerabiać te źródła i je ewaluować, dzięki czemu mamy rzetelne informacje jak oceniają ten kurs osoby, które **jeszcze tej wiedzy przed nim nie miały**. Prezentowane niżej opinie są zanonimizowaną, skompresowaną i uśrednioną wartością ze wszystkich udzielonych ewaluacji. Jeśli chcesz zacząć swoją przygodę z ML'em, warto zerknąć na poniższe pozycję i zapoznać się z ich ewaluacjami. Jeśli chcesz coś przerobić to będzie nam, całej społeczności, bardzo miło jeśli podzielisz się z nami swoją ewaluacją. Wypełnienie ankiety ewaluacyjnej zajmuje dosłownie kilka minut! ;)
+Kącik źródłowy jest miejscem gdzie gdzie znajdują się źródła do nauki ML wraz z ich ewaluacjami przeprowadzonymi przez członków koła.  Jest to w gruncie rzeczy lista źródeł do nauki dla osób, które chcą się nauczyć ale szukają rekomendacji skąd czerpać wiedzę. Chętni członkowie, którzy są w takiej sytuacji mogą jednocześnie przerabiać te źródła i je ewaluować, dzięki czemu mamy rzetelne informacje jak oceniają ten kurs osoby, które **jeszcze tej wiedzy przed nim nie miały**. Prezentowane niżej opinie są zanonimizowaną, skompresowaną i uśrednioną wartością ze wszystkich udzielonych ewaluacji. Jeśli chcesz zacząć swoją przygodę z ML'em, warto zerknąć na poniższe pozycję i zapoznać się z ich ewaluacjami. Jeśli chcesz coś przerobić to będzie nam, całej społeczności, bardzo miło jeśli podzielisz się z nami swoją ewaluacją. Wypełnienie ankiety ewaluacyjnej zajmuje dosłownie kilka minut! ;)
 ### Making the World More Efficient Using AI & Machine Learning 
-Dla osób wchodzących w dziedzinę polecamy prezentację Krzysztofa Kowalczyka. Przedstawia ona w krótki sposób dziedzinę i możliwe do podjęcia w niej ścieżki.
-TODO: tutaj link do prezki
+Dla osób wchodzących w dziedzinę polecamy prezentację Krzysztofa Kowalczyka. Przedstawia ona w krótki sposób dziedzinę i możliwe do podjęcia w niej ścieżki.
+[Prezentacja](https://github.com/knum-mimuw/knum-info/blob/eval/data/CampIT%20-%20Krzysztof%20Kowalczyk%20(public).pdf)
 # Klasyczny Machine Learning
 #### Learning To See
 **Link**
@@ -36,14 +36,13 @@ https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV
 **Wymagania wstępne**
 - Brak
 
-**Jak bardzo kurs nastawiony był na praktykę?**
-- 3/5 ★★★☆☆
+**Gwiazdki**
 
-**Jak bardzo kurs nastawiony był na teorię?**
-- 3/5 ★★★☆☆
-
-**Ostateczna ocena kursu**
-- 6/10 ★★★★★★☆☆☆☆
+|                  Kategoria                  |      Ocena      |
+|:-------------------------------------------:|:---------------:|
+| Jak bardzo kurs nastawiony był na praktykę? |    3/5 ★★★☆☆    |
+|  Jak bardzo kurs nastawiony był na teorię?  |    3/5 ★★★☆☆    |
+|            Ostateczna ocena kursu           | 6/10 ★★★★★★☆☆☆☆ |
 
 **Ogólna opinia**
 
@@ -56,18 +55,17 @@ https://www.kaggle.com/learn/intro-to-machine-learning
 **Wymagania wstępne**
 - Podstawowa znajomość pythona
 
-**Jak bardzo kurs nastawiony był na praktykę?**
-- 5/5 ★★★★★
+**Gwiazdki**
 
-**Jak bardzo kurs nastawiony był na teorię?**
-- 1/5 ★☆☆☆☆
-
-**Ostateczna ocena kursu**
-- 6/10 ★★★★★★☆☆☆☆
+|                  Kategoria                  |      Ocena      |
+|:-------------------------------------------:|:---------------:|
+| Jak bardzo kurs nastawiony był na praktykę? |    5/5 ★★★★★    |
+|  Jak bardzo kurs nastawiony był na teorię?  |    1/5 ★☆☆☆☆    |
+|            Ostateczna ocena kursu           | 6/10 ★★★★★★☆☆☆☆ |
 
 **Ogólna opinia**
 
-Kurs jest bardzo praktyczny. Warto go przerabiać jak się dobrze zrozumie podstawy takie jak m.in. drzewa decyzyjne. W tutorialu korzysta się z większości rzeczy jako z blackboxów. Jest zawsze trochę teorii, potem trochę praktyki. Mało tłumaczenia co, jak, dlaczego. Polecany jeśli chce się zacząć coś kodzić.
+Kurs jest bardzo praktyczny. Warto go przerabiać jak się dobrze zrozumie podstawy takie jak m.in. drzewa decyzyjne. W tutorialu korzysta się z większości rzeczy jako z blackboxów. Jest zawsze trochę teorii, potem trochę praktyki. Mało tłumaczenia co, jak, dlaczego. Polecany jeśli chce się zacząć coś kodzić.
 ****
 #### Fastai machine learning course
 **Link**
@@ -76,18 +74,18 @@ http://course18.fast.ai/ml.html
 **Wymagania wstępne**
 - Podstawowa znajomość pythona
 - Mogą się przydać elementy rachunku prawdopodobieństwa
-**Jak bardzo kurs nastawiony był na praktykę?**
-- 5/5 ★★★★★
 
-**Jak bardzo kurs nastawiony był na teorię?**
-- 3/5 ★★★☆☆
+**Gwiazdki**
 
-**Ostateczna ocena kursu**
-- 8/10 ★★★★★★★★☆☆
+|                  Kategoria                  |      Ocena      |
+|:-------------------------------------------:|:---------------:|
+| Jak bardzo kurs nastawiony był na praktykę? |    5/5 ★★★★★    |
+|  Jak bardzo kurs nastawiony był na teorię?  |    3/5 ★★★☆☆    |
+|            Ostateczna ocena kursu           | 8/10 ★★★★★★★★☆☆ |
 
 **Ogólna opinia**
 
-Bardzo długie źródło, kompletnie przeprowadzające przez wiele zagadnień klasycznego ML. Kurs jest bardzo praktyczny. Autor nie pomija też teorii, lecz ze względu na "notebookowy" charakter wykładu, można widzieć skierowanie się w strone praktyki. Podejście top-down w nauczaniu.  Można nauczyć się o drzewach, interpretowaniu modeli, przydatnych praktykach przy pracy w Pythonie, podstaw machine learningu. Część o losowych drzewach była naprawdę wartościowa. Ta deep-learningowa wypada nieco gorzej. W kursie korzysta się z bliblioteki fast.ai, ze względu na dynamiczny jej rozwój mogą wystąpić problemy techniczne, wnet kurs należy bardziej potraktować jako wykład, ewentualnie implementować na boku w innych technologiach.
+Bardzo długie źródło, kompletnie przeprowadzające przez wiele zagadnień klasycznego ML. Kurs jest bardzo praktyczny. Autor nie pomija też teorii, lecz ze względu na "notebookowy" charakter wykładu, można widzieć skierowanie się w strone praktyki. Podejście top-down w nauczaniu.  Można nauczyć się o drzewach, interpretowaniu modeli, przydatnych praktykach przy pracy w Pythonie, podstaw machine learningu. Część o losowych drzewach była naprawdę wartościowa. Ta deep-learningowa wypada nieco gorzej. W kursie korzysta się z bliblioteki fast.ai, ze względu na dynamiczny jej rozwój mogą wystąpić problemy techniczne, wnet kurs należy bardziej potraktować jako wykład, ewentualnie implementować na boku w innych technologiach.
 ****
 #### Elements of AI 
 **Link**
@@ -96,14 +94,13 @@ https://www.elementsofai.com/
 **Wymagania wstępne**
 - Brak
 
-**Jak bardzo kurs nastawiony był na praktykę?**
-- 2/5 ★★☆☆☆
+**Gwiazdki**
 
-**Jak bardzo kurs nastawiony był na teorię?**
-- 4/5 ★★★★☆
-
-**Ostateczna ocena kursu**
-- 8/10 ★★★★★★★★☆☆
+|                  Kategoria                  |      Ocena      |
+|:-------------------------------------------:|:---------------:|
+| Jak bardzo kurs nastawiony był na praktykę? |    2/5 ★★☆☆☆    |
+|  Jak bardzo kurs nastawiony był na teorię?  |    4/5 ★★★★☆    |
+|            Ostateczna ocena kursu           | 8/10 ★★★★★★★★☆☆ |
 
 **Ogólna opinia**
 
@@ -117,14 +114,11 @@ https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn
 **Wymagania wstępne**
 - Analiza Matematyczna
 
-**Jak bardzo kurs nastawiony był na praktykę?**
-- 1/5 ★☆☆☆☆
-
-**Jak bardzo kurs nastawiony był na teorię?**
-- 5/5 ★★★★★
-
-**Ostateczna ocena kursu**
-- 7/10 ★★★★★★★☆☆☆
+|                  Kategoria                  |      Ocena      |
+|:-------------------------------------------:|:---------------:|
+| Jak bardzo kurs nastawiony był na praktykę? |    1/5 ★☆☆☆☆    |
+|  Jak bardzo kurs nastawiony był na teorię?  |    5/5 ★★★★★    |
+|            Ostateczna ocena kursu           | 7/10 ★★★★★★★☆☆☆ |
 
 **Ogólna opinia**
 
@@ -138,15 +132,11 @@ https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn
 - Podstawowa znajomość pythona
 - Mogą się przydać elementy rachunku prawdopodobieństwa
 
-**Jak bardzo kurs nastawiony był na praktykę?**
-- 5/5 ★★★★★
-
-**Jak bardzo kurs nastawiony był na teorię?**
-- 2/5 ★★☆☆☆
-
-**Ostateczna ocena kursu**
-- 7/10 ★★★★★★★☆☆☆
-
+|                  Kategoria                  |      Ocena      |
+|:-------------------------------------------:|:---------------:|
+| Jak bardzo kurs nastawiony był na praktykę? |    5/5 ★★★★★    |
+|  Jak bardzo kurs nastawiony był na teorię?  |    2/5 ★★☆☆☆    |
+|            Ostateczna ocena kursu           | 7/10 ★★★★★★★☆☆☆ |
 **Ogólna opinia**
 
 Bardzo praktyczny kurs DL for beginners, nacisk na podstawowe zastosowania: image (CNN'y jako blackbox), text (jakieś fully connected i potem RNN, też właściwie blackbox), collab filtering, embeddingi, właściwie wszystkie najważniejsze, było coś tam o segmentation (U-net), jakieś przystępne wyjaśnienie czym jest GAN, ogólnie rozległa tematyka. Kod wysokopoziomowy w bibliotece fast.ai - nacisk na szybkie pisanie czegoś co działa, podejście top-down jak w innych kursach Jeremiego, dość szybki reward z pisania kodu dla kogoś kto dopiero zaczyna. Z plusów to też można szybko poznać najważniejsze zastosowania DL. Przekazywane jest sporo intuicji, ale (ze względu też na specyfikę kursu) dużym minusem jest bardzo blackboxowe wyjaśnianie tego co się dzieje - Jeremy sam przyznaje że trzeba obejrzeć niektóre fragmenty kilka razy, czasami warto doogoglać pewne informacje
@@ -158,14 +148,11 @@ http://introtodeeplearning.com
 **Wymagania wstępne**
 - Brak
 
-**Jak bardzo kurs nastawiony był na praktykę?**
-- 4/5 ★★★★☆
-
-**Jak bardzo kurs nastawiony był na teorię?**
-- 5/5 ★★★★★
-
-**Ostateczna ocena kursu**
-- 10/10 ★★★★★★★★★★
+|                  Kategoria                  |      Ocena      |
+|:-------------------------------------------:|:---------------:|
+| Jak bardzo kurs nastawiony był na praktykę? |    4/5 ★★★★☆    |
+|  Jak bardzo kurs nastawiony był na teorię?  |    5/5 ★★★★★    |
+|            Ostateczna ocena kursu           | 10/10 ★★★★★★★★★★ |
 
 **Ogólna opinia**
 
@@ -178,5 +165,4 @@ Bardzo bardzo wartościowy kurs. Jeżeli ktoś chce wejść w zasadzie z zeroweg
 # Wsparcie
 Powyższe opinie są uśrednionym wynikiem ewaluacji dokonanych przez członków. Nie moglibyśmy posiadać takiego źródła bez zaangażowania zainteresowanych dzieleniem się swoimi ocenami ze społecznością. Jeśli przerabiasz jakieś źródło i chciałbyś się podzielić swoją ewaluację, prosimy o wypełnienie **krótkiej** ankiety ewaluacyjnej: <br>
 [Ankieta](https://docs.google.com/forms/d/e/1FAIpQLScbSeUilPpZmbOm03n7OI6i95QWXFkrlAMnFtMRcEnOAy_XRA/viewform)
-
 
