@@ -114,6 +114,8 @@ https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn
 **Wymagania wstępne**
 - Analiza Matematyczna
 
+**Gwiazdki**
+
 |                  Kategoria                  |      Ocena      |
 |:-------------------------------------------:|:---------------:|
 | Jak bardzo kurs nastawiony był na praktykę? |    1/5 ★☆☆☆☆    |
@@ -132,6 +134,8 @@ https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn
 - Podstawowa znajomość pythona
 - Mogą się przydać elementy rachunku prawdopodobieństwa
 
+**Gwiazdki**
+
 |                  Kategoria                  |      Ocena      |
 |:-------------------------------------------:|:---------------:|
 | Jak bardzo kurs nastawiony był na praktykę? |    5/5 ★★★★★    |
@@ -147,6 +151,8 @@ http://introtodeeplearning.com
 
 **Wymagania wstępne**
 - Brak
+
+**Gwiazdki**
 
 |                  Kategoria                  |      Ocena      |
 |:-------------------------------------------:|:---------------:|
