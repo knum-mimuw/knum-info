@@ -165,10 +165,61 @@ http://introtodeeplearning.com
 Bardzo bardzo wartościowy kurs. Jeżeli ktoś chce wejść w zasadzie z zerowego poziomu na poziom, w którym rozumie o co chodzi w sieciach neuronowych, to jest to bardzo solidne źródło nauki. Wykłady prowadzone w niesłychanie profesjonalny sposób. Tłumacząc jakieś zagadnienie używają konkretnych przykładów, tłumaczą teorię, a następnie pokazują kod w Tensorflow, który realizuje koncepcję, przez co od razu wiadomo jak takie sieci wyglądałyby. Wszystkie zagadnienia poruszane są tłumaczone w taki sposób, żeby było wszystko jasne, a dodatkowo oprócz wykładów są udostępnione Google Colaby, na "ćwiczenia" po wykładach, gdzie można było zastosować praktycznie wiedzę teoretyczną zdobytą na wykładach. Warto dodać, że wykłady realizują również osoby z firm takich jak NVIDIA, Google itp.
 # Artykuły
 #### Cheatsheet Recurrent Neural Networks
+
+**Wymagania wstępne**
+- Podstawowa wiedza o strukturze i działaniu sieci neuronowych
+
+**Gwiazdki**
+
+|                  Kategoria                  |      Ocena      |
+|:-------------------------------------------:|:---------------:|
+| Jak bardzo kurs nastawiony był na praktykę? |    1/5 ★☆☆☆☆    |
+|  Jak bardzo kurs nastawiony był na teorię?  |    5/5 ★★★★★    |
+|            Ostateczna ocena kursu           | 8/10 ★★★★★★★★☆☆ |
+
+
+**Ogólna opinia**
+Cheatsheet, lecz dobry start w temacie RNN/przypominajka
+
+
 #### Beginners guide on recurrent neural-networks with pytorch
+
+**Wymagania wstępne**
+- Podstawowa wiedza o strukturze NN
+- Podstawy Pythona
+
+
+**Gwiazdki**
+
+|                  Kategoria                  |      Ocena      |
+|:-------------------------------------------:|:---------------:|
+| Jak bardzo kurs nastawiony był na praktykę? |    3/5 ★★★☆☆    |
+|  Jak bardzo kurs nastawiony był na teorię?  |    3/5 ★★★☆☆    |
+|            Ostateczna ocena kursu           | 7/10 ★★★★★★★☆☆☆ |
+
+
+**Ogólna opinia**
+Szybki start w temacie RNN i implementacji w Pytorchu
+
 #### D2L.AI Gated recurrent unit
+
+**Wymagania wstępne**
+- Podstawowa wiedza o strukturze NN i RNN
+- Podstawy Pythona
+- Podstawy algebry liniowej
+
+**Gwiazdki**
+
+|                  Kategoria                  |      Ocena      |
+|:-------------------------------------------:|:---------------:|
+| Jak bardzo kurs nastawiony był na praktykę? |    2/5 ★★☆☆☆    |
+|  Jak bardzo kurs nastawiony był na teorię?  |    4/5 ★★★★☆    |
+|            Ostateczna ocena kursu           | 7/10 ★★★★★★★☆☆☆ |
+
+
+**Ogólna opinia**
+Dość dobre wytłumaczenie budowy i działania GRU
 
 # Wsparcie
 Powyższe opinie są uśrednionym wynikiem ewaluacji dokonanych przez członków. Nie moglibyśmy posiadać takiego źródła bez zaangażowania zainteresowanych dzieleniem się swoimi ocenami ze społecznością. Jeśli przerabiasz jakieś źródło i chciałbyś się podzielić swoją ewaluację, prosimy o wypełnienie **krótkiej** ankiety ewaluacyjnej: <br>
 [Ankieta](https://docs.google.com/forms/d/e/1FAIpQLScbSeUilPpZmbOm03n7OI6i95QWXFkrlAMnFtMRcEnOAy_XRA/viewform)
-
