@@ -7,7 +7,7 @@
 **Spis Treści**
 
 - [Intro](#intro)
-    + [Making the World More Efficient Using AI & Machine Learning](#making-the-world-more-efficient-using-ai---machine-learning)
+    + [Making the World More Efficient Using AI & Machine Learning](#making-the-world-more-efficient-using-ai-and-machine-learning)
 - [Klasyczny Machine Learning](#klasyczny-machine-learning)
     + [Learning To See](#learning-to-see)
     + [Kaggle - Intro to ML](#kaggle---intro-to-ml)
@@ -15,7 +15,7 @@
     + [Elements of AI](#elements-of-ai)
 - [Deep Learning](#deep-learning)
     + [3blue1brown - Neural Networks](#3blue1brown---neural-networks)
-    + [Practical Deep Learning for Coders, v3, Part 1 (Jeremy Howard)](#practical-deep-learning-for-coders--v3--part-1--jeremy-howard-)
+    + [Practical Deep Learning for Coders v3](#practical-deep-learning-for-coders-v3)
     + [MIT Introduction to Deep Learning 6.S191](#mit-introduction-to-deep-learning-6s191)
 - [Artykuły](#artykuły)
     + [Cheatsheet Recurrent Neural Networks](#cheatsheet-recurrent-neural-networks)
@@ -25,7 +25,7 @@
 
 # Intro
 Kącik źródłowy jest miejscem gdzie gdzie znajdują się źródła do nauki ML wraz z ich ewaluacjami przeprowadzonymi przez członków koła.  Jest to w gruncie rzeczy lista źródeł do nauki dla osób, które chcą się nauczyć ale szukają rekomendacji skąd czerpać wiedzę. Chętni członkowie, którzy są w takiej sytuacji mogą jednocześnie przerabiać te źródła i je ewaluować, dzięki czemu mamy rzetelne informacje jak oceniają ten kurs osoby, które **jeszcze tej wiedzy przed nim nie miały**. Prezentowane niżej opinie są zanonimizowaną, skompresowaną i uśrednioną wartością ze wszystkich udzielonych ewaluacji. Jeśli chcesz zacząć swoją przygodę z ML'em, warto zerknąć na poniższe pozycję i zapoznać się z ich ewaluacjami. Jeśli chcesz coś przerobić to będzie nam, całej społeczności, bardzo miło jeśli podzielisz się z nami swoją ewaluacją. Wypełnienie ankiety ewaluacyjnej zajmuje dosłownie kilka minut! ;)
-### Making the World More Efficient Using AI & Machine Learning 
+### Making the World More Efficient Using AI and Machine Learning 
 Dla osób wchodzących w dziedzinę polecamy prezentację Krzysztofa Kowalczyka. Przedstawia ona w krótki sposób dziedzinę i możliwe do podjęcia w niej ścieżki.
 [Prezentacja](https://github.com/knum-mimuw/knum-info/blob/eval/data/CampIT%20-%20Krzysztof%20Kowalczyk%20(public).pdf)
 # Klasyczny Machine Learning
@@ -126,7 +126,7 @@ https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn
 
 Zestaw kilku krótkich, aczkolwiek bardzo treściwych filmików wyjaśniających działanie zwykłych sieci neuronowych. Całość bardzo nastawione na matematykę. Zawiera githuba do sieci napisanej w pythonie do rozpoznawania pisanych cyfr, więc można na bieżąco patrzeć o czym mowa w filmach. Kod na githubie nie jest jakiś przyjazny do eksperymentowania.
 ****
-#### Practical Deep Learning for Coders, v3, Part 1 (Jeremy Howard)
+#### Practical Deep Learning for Coders v3
 **Link**
 https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn
 
