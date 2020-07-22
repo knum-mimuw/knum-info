@@ -31,6 +31,7 @@ Dla osób wchodzących w dziedzinę polecamy prezentację Krzysztofa Kowalczyka.
 # Klasyczny Machine Learning
 ### Learning To See
 **Link**
+
 https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV
 
 **Wymagania wstępne**
@@ -50,6 +51,7 @@ Jest ogólnym kursem, bardzo podstawowym, nie uczy implementowania sieci jednak 
 ****
 ### Kaggle - Intro to ML
 **Link**
+
 https://www.kaggle.com/learn/intro-to-machine-learning
 
 **Wymagania wstępne**
@@ -69,6 +71,7 @@ Kurs jest bardzo praktyczny. Warto go przerabiać jak się dobrze zrozumie podst
 ****
 ### Fastai machine learning course
 **Link**
+
 http://course18.fast.ai/ml.html
 
 **Wymagania wstępne**
@@ -89,6 +92,7 @@ Bardzo długie źródło, kompletnie przeprowadzające przez wiele zagadnień kl
 ****
 ### Elements of AI 
 **Link**
+
 https://www.elementsofai.com/
 
 **Wymagania wstępne**
@@ -109,6 +113,7 @@ Kurs dobry jako pierwsza zajawka do ML-a. Zawiera on w sobie bardzo dużo wstęp
 # Deep Learning
 ### 3blue1brown - Neural Networks
 **Link**
+
 https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn
 
 **Wymagania wstępne**
@@ -128,6 +133,7 @@ Zestaw kilku krótkich, aczkolwiek bardzo treściwych filmików wyjaśniających
 ****
 ### Practical Deep Learning for Coders v3
 **Link**
+
 https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn
 
 **Wymagania wstępne**
@@ -147,6 +153,7 @@ Bardzo praktyczny kurs DL for beginners, nacisk na podstawowe zastosowania: imag
 ****
 ### MIT Introduction to Deep Learning 6.S191
 **Link**
+
 http://introtodeeplearning.com
 
 **Wymagania wstępne**
@@ -164,6 +171,9 @@ http://introtodeeplearning.com
 Bardzo wartościowy kurs. Jeżeli ktoś chce wejść w zasadzie z zerowego poziomu na poziom, w którym rozumie, o co chodzi w sieciach neuronowych, to jest to bardzo solidne źródło nauki. Wykłady prowadzone w niesłychanie profesjonalny sposób. Tłumacząc jakieś zagadnienie, używają konkretnych przykładów, tłumaczą teorię, a następnie pokazują kod w Tensorflow, który realizuje koncepcję, przez co od razu wiadomo, jak takie sieci wyglądałyby. Wszystkie zagadnienia poruszane są tłumaczone w taki sposób, żeby było wszystko jasne, a dodatkowo oprócz wykładów są udostępnione Google Colaby, na "ćwiczenia" po wykładach, gdzie można było zastosować praktycznie wiedzę teoretyczną zdobytą na wykładach. Warto dodać, że wykłady realizują również osoby z firm takich jak NVIDIA, Google itp.
 # Artykuły
 ### Cheatsheet Recurrent Neural Networks
+**Link**
+
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
 
 **Wymagania wstępne**
 - Podstawowa wiedza o strukturze i działaniu sieci neuronowych
@@ -182,6 +192,9 @@ Cheatsheet, lecz dobry start w temacie RNN/przypominajka.
 
 
 ### Beginners guide on recurrent neural-networks with pytorch
+**Link**
+
+https://blog.floydhub.com/a-beginners-guide-on-recurrent-neural-networks-with-pytorch/
 
 **Wymagania wstępne**
 - Podstawowa wiedza o strukturze NN
@@ -201,6 +214,9 @@ Cheatsheet, lecz dobry start w temacie RNN/przypominajka.
 Szybki start w temacie RNN i implementacji w Pytorchu.
 
 ### D2L.AI Gated recurrent unit
+**Link**
+
+https://d2l.ai/chapter_recurrent-modern/gru.html
 
 **Wymagania wstępne**
 - Podstawowa wiedza o strukturze NN i RNN
