@@ -1,7 +1,7 @@
 <h1 align="center"> Witaj na Platformie Wymiany Źródeł KNUM UW 👋</h1>
 
 
-![](https://github.com/knum-mimuw/knum-info/blob/eval/data/knum-linkedin-color-dark.png?raw=true)
+![](https://github.com/knum-mimuw/knum-info/blob/master/data/knum-linkedin-color-dark.png?raw=true)
 
 
 **Spis Treści**
@@ -27,7 +27,7 @@
 Kącik źródłowy jest miejscem, gdzie znajdują się źródła do nauki ML wraz z ich ewaluacjami przeprowadzonymi przez członków koła. Jest to w gruncie rzeczy lista źródeł do nauki dla osób, które chcą się nauczyć, ale szukają rekomendacji skąd czerpać wiedzę. Chętni członkowie, którzy są w takiej sytuacji, mogą jednocześnie przerabiać te źródła i je ewaluować, dzięki czemu mamy rzetelne informacje jak oceniają ten kurs osoby, które **jeszcze tej wiedzy przed nim nie miały**. Prezentowane niżej opinie są zanonimizowaną, skompresowaną i uśrednioną wartością ze wszystkich udzielonych ewaluacji. Jeśli chcesz zacząć swoją przygodę z ML'em, warto zerknąć na poniższe pozycje i zapoznać się z ich ewaluacjami. Jeśli chcesz coś przerobić, to będzie nam, całej społeczności, bardzo miło, jeśli podzielisz się z nami swoją ewaluacją. Wypełnienie ankiety ewaluacyjnej, która znajduje się na samym dole, zajmuje dosłownie kilka minut! ;)
 ### Making the World More Efficient Using AI and Machine Learning 
 Dla osób początkujących polecamy prezentację Krzysztofa Kowalczyka. Przedstawia ona w krótki sposób dziedzinę i możliwe do podjęcia w niej ścieżki.
-[Prezentacja](https://github.com/knum-mimuw/knum-info/blob/eval/data/CampIT%20-%20Krzysztof%20Kowalczyk%20(public).pdf)
+[Prezentacja](https://github.com/knum-mimuw/knum-info/blob/master/data/CampIT%20-%20Krzysztof%20Kowalczyk%20(public).pdf)
 # Klasyczny Machine Learning
 ### Learning To See
 **Link**
