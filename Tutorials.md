@@ -147,6 +147,7 @@ https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn
 | Jak bardzo kurs nastawiony był na praktykę? |    5/5 ★★★★★    |
 |  Jak bardzo kurs nastawiony był na teorię?  |    2/5 ★★☆☆☆    |
 |            Ostateczna ocena kursu           | 7/10 ★★★★★★★☆☆☆ |
+
 **Ogólna opinia**
 
 Bardzo praktyczny kurs DL for beginners, nacisk na podstawowe zastosowania: image (CNN'y jako blackbox), text (jakieś fully connected i potem RNN, też właściwie blackbox), collab filtering, embeddingi, właściwie wszystkie najważniejsze, było coś tam o segmentation (U-net), jakieś przystępne wyjaśnienie czym jest GAN, ogólnie rozległa tematyka. Kod wysokopoziomowy w bibliotece fast.ai - nacisk na szybkie pisanie czegoś, co działa, podejście top-down jak w innych kursach Jeremiego, dość szybki reward z pisania kodu dla kogoś, kto dopiero zaczyna. Z plusów to też można szybko poznać najważniejsze zastosowania DL. Przekazywane jest sporo intuicji, ale (ze względu też na specyfikę kursu) dużym minusem jest bardzo blackboxowe wyjaśnianie tego, co się dzieje - Jeremy sam przyznaje, że trzeba obejrzeć niektóre fragmenty kilka razy, czasami warto doogoglać pewne informacje.
