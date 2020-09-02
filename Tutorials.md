@@ -134,7 +134,8 @@ Zestaw kilku krótkich, aczkolwiek bardzo treściwych filmików wyjaśniających
 ### Practical Deep Learning for Coders v3
 **Link**
 
-https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn
+https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn (2019) <br>
+https://www.youtube.com/watch?v=_QUEXsHfsA0 (2020)
 
 **Wymagania wstępne**
 - Podstawowa znajomość pythona
@@ -150,7 +151,7 @@ https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn
 
 **Ogólna opinia**
 
-Bardzo praktyczny kurs DL for beginners, nacisk na podstawowe zastosowania: image (CNN'y jako blackbox), text (jakieś fully connected i potem RNN, też właściwie blackbox), collab filtering, embeddingi, właściwie wszystkie najważniejsze, było coś tam o segmentation (U-net), jakieś przystępne wyjaśnienie czym jest GAN, ogólnie rozległa tematyka. Kod wysokopoziomowy w bibliotece fast.ai - nacisk na szybkie pisanie czegoś, co działa, podejście top-down jak w innych kursach Jeremiego, dość szybki reward z pisania kodu dla kogoś, kto dopiero zaczyna. Z plusów to też można szybko poznać najważniejsze zastosowania DL. Przekazywane jest sporo intuicji, ale (ze względu też na specyfikę kursu) dużym minusem jest bardzo blackboxowe wyjaśnianie tego, co się dzieje - Jeremy sam przyznaje, że trzeba obejrzeć niektóre fragmenty kilka razy, czasami warto doogoglać pewne informacje.
+Bardzo praktyczny kurs DL for beginners, nacisk na podstawowe zastosowania: image (CNN'y jako blackbox), text (jakieś fully connected i potem RNN, też właściwie blackbox), collab filtering, embeddingi, właściwie wszystkie najważniejsze, było coś tam o segmentation (U-net), jakieś przystępne wyjaśnienie czym jest GAN, ogólnie rozległa tematyka. Kod wysokopoziomowy w bibliotece fast.ai - nacisk na szybkie pisanie czegoś, co działa, podejście top-down jak w innych kursach Jeremiego, dość szybki reward z pisania kodu dla kogoś, kto dopiero zaczyna. Z plusów to też można szybko poznać najważniejsze zastosowania DL. Przekazywane jest sporo intuicji, ale (ze względu też na specyfikę kursu) dużym minusem jest bardzo blackboxowe wyjaśnianie tego, co się dzieje - Jeremy sam przyznaje, że trzeba obejrzeć niektóre fragmenty kilka razy, czasami warto doogoglać pewne informacje. Przy przechodzeniu kursu pomaga książka https://github.com/fastai/fastbook.
 ****
 ### MIT Introduction to Deep Learning 6.S191
 **Link**
